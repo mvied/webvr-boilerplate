@@ -6,8 +6,7 @@
   "dependencies": {
     "es6-promise": "latest",
     "three": "latest",
-    "webvr-polyfill": "latest",
-    "webvr-ui": "latest"
+    "webvr-polyfill": "latest"
   },
   "devDependencies": {
     "browserify": "latest",
@@ -18,7 +17,9 @@
     "type": "git",
     "url": "git+https://github.com/googlevr/webvr-boilerplate.git"
   },
-  "keywords": ["vr"],
+  "keywords": [
+    "vr"
+  ],
   "author": "Boris Smus <boris@smus.com>",
   "license": "Apache-2.0",
   "bugs": {
